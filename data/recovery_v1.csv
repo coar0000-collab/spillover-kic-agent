@@ -1,0 +1,131 @@
+﻿asset,date,name,type,clean,dd,trough,days,fast,regime,structural,follow
+KOSPI,2018-01-22,세탁기·태양광 세이프가드 발표,tariff,True,-5.5289368553475775,14,67.0,False,True,False,0
+EWY,2018-01-22,세탁기·태양광 세이프가드 발표,tariff,True,-10.29411967785413,13,,False,True,False,0
+KOSPI,2018-01-31,FOMC 동결,mon_hold,True,-7.897646738747854,7,,False,True,False,0
+EWY,2018-01-31,FOMC 동결,mon_hold,True,-11.241323902113098,7,,False,True,False,0
+EWY,2018-03-21,FOMC 인상 25bp,mon_tight,False,-5.299908950694643,3,27.0,True,True,False,0
+EWY,2018-03-22,대중 301조 조치 각서,tariff,False,-6.092277969380177,2,,False,True,True,1
+KOSPI,2018-05-23,수입차 232조 조사 개시,tariff,True,-5.424139177869936,19,,False,True,True,0
+EWY,2018-05-23,수입차 232조 조사 개시,tariff,True,-9.887167457244416,20,,False,True,True,0
+EWY,2018-06-13,FOMC 인상 25bp,mon_tight,False,-10.273593962144368,16,,False,False,False,0
+KOSPI,2018-06-13,FOMC 인상 25bp,mon_tight,False,-8.557900811761643,16,,False,False,False,0
+KOSPI,2018-06-15,대중 500억달러 관세 확정,tariff,False,-6.093492115526555,14,,False,False,False,0
+EWY,2018-06-15,대중 500억달러 관세 확정,tariff,False,-8.559888834181518,14,,False,False,False,0
+EWY,2018-08-01,FOMC 동결,mon_hold,False,-5.8876148055437945,11,19.0,True,False,False,0
+EWY,2018-08-01,"대중 2,000억달러 관세율 25% 상향 검토",tariff,False,-5.8876148055437945,11,19.0,True,False,False,0
+KOSPI,2018-09-17,"대중 2,000억달러 관세 확정",tariff,True,-7.526675401131477,13,,False,False,False,1
+EWY,2018-09-17,"대중 2,000억달러 관세 확정",tariff,True,-7.496586165059171,18,92.0,False,False,False,1
+EWY,2018-09-24,한미FTA 개정 서명,tariff,False,-10.724808616061532,19,,False,True,False,0
+KOSPI,2018-09-24,한미FTA 개정 서명,tariff,False,-13.338915422220921,20,,False,True,False,0
+KOSPI,2018-09-26,FOMC 인상 25bp,mon_tight,False,-13.338915422220921,20,,False,True,False,0
+EWY,2018-09-26,FOMC 인상 25bp,mon_tight,False,-10.935894953018755,20,,False,True,False,0
+EWY,2018-11-06,2018 중간선거,election,False,-4.14414217376634,4,15.0,True,False,True,0
+EWY,2018-11-08,FOMC 동결,mon_hold,False,-5.536724833151663,3,17.0,True,False,False,0
+KOSPI,2018-12-01,미중 G20 정상회담 휴전,tariff,True,-4.14238923781477,20,29.0,True,False,False,0
+KOSPI,2018-12-19,FOMC 인상 25bp,mon_tight,False,-4.095559692864148,8,16.0,True,False,False,0
+KOSPI,2019-02-24,대중 관세 인상 연기,tariff,True,-4.172161335743107,9,34.0,False,True,False,0
+EWY,2019-02-24,대중 관세 인상 연기,tariff,True,-5.877788365852432,10,,False,True,False,0
+KOSPI,2019-05-01,FOMC 동결,mon_hold,False,-8.180747526148346,19,,False,False,False,0
+EWY,2019-05-01,FOMC 동결,mon_hold,False,-10.670136186701418,20,,False,False,False,0
+KOSPI,2019-05-05,대중 관세 25% 인상 예고,tariff,False,-7.876817434880589,17,,False,False,False,1
+EWY,2019-05-05,대중 관세 25% 인상 예고,tariff,False,-10.61197346360645,17,,False,False,False,1
+EWY,2019-05-13,중국 보복관세·대중 4차 목록 발표,tariff,False,-4.900444683434935,12,21.0,True,False,False,1
+EWY,2019-06-29,미중 오사카 정상회담 휴전,tariff,True,-5.745777466953694,20,88.0,False,False,False,0
+EWY,2019-07-31,FOMC 인하 25bp,mon_ease,False,-9.142549733444117,11,30.0,True,False,False,0
+KOSPI,2019-07-31,FOMC 인하 25bp,mon_ease,False,-5.67237584257787,5,28.0,True,False,False,0
+KOSPI,2019-08-01,"대중 3,000억달러 10% 관세 발표",tariff,False,-5.335243771817455,4,26.0,True,False,False,1
+EWY,2019-08-01,"대중 3,000억달러 10% 관세 발표",tariff,False,-7.617330839042502,10,26.0,True,False,False,1
+KOSPI,2020-01-29,FOMC 동결,mon_hold,True,-4.965496792671398,20,90.0,False,True,False,0
+EWY,2020-01-29,FOMC 동결,mon_hold,True,-8.852621382914606,19,,False,True,False,0
+KOSPI,2020-03-03,FOMC 긴급 50bp 인하,mon_ease,False,-27.630017775240933,12,56.0,False,False,False,1
+EWY,2020-03-03,FOMC 긴급 50bp 인하,mon_ease,False,-30.67068195206716,15,64.0,False,False,False,1
+KOSPI,2020-03-15,FOMC 긴급 제로금리·QE,mon_ease,False,-17.714398293893264,4,16.0,True,False,False,1
+EWY,2020-03-15,FOMC 긴급 제로금리·QE,mon_ease,False,-21.636824846978687,6,21.0,True,False,False,1
+EWY,2020-03-19,한미 통화스와프 600억달러 체결,mon_ease,False,-4.1799539948671915,3,4.0,True,False,False,1
+EWY,2020-03-27,CARES법(2.2조달러 부양) 서명,fiscal,False,-8.674746952049139,4,7.0,True,False,False,0
+KOSPI,2020-06-10,FOMC 동결,mon_hold,True,-7.508801311518287,3,25.0,True,True,False,0
+EWY,2020-06-10,FOMC 동결,mon_hold,True,-6.502697278389158,4,18.0,True,True,False,0
+KOSPI,2020-08-17,화웨이 FDPR 확대,export_ctrl,True,-5.535641687892367,3,20.0,True,True,False,0
+EWY,2020-08-17,화웨이 FDPR 확대,export_ctrl,True,-5.177649710227817,4,21.0,True,True,False,0
+EWY,2020-09-16,FOMC 동결,mon_hold,True,-5.705697218404193,7,14.0,True,True,False,0
+KOSPI,2020-09-16,FOMC 동결,mon_hold,True,-6.700547470275198,6,34.0,False,True,False,0
+EWY,2020-12-16,FOMC 동결,mon_hold,False,-4.047015278117783,5,8.0,True,True,False,0
+KOSPI,2021-01-20,바이든 취임,election,True,-4.4417359079741425,7,10.0,True,True,True,0
+EWY,2021-01-20,바이든 취임,election,True,-4.890425210468907,8,11.0,True,True,True,0
+KOSPI,2021-01-27,FOMC 동결,mon_hold,True,-4.68686253939209,2,5.0,True,True,False,0
+EWY,2021-01-27,FOMC 동결,mon_hold,True,-6.5450396464702525,3,,False,True,False,0
+EWY,2021-04-28,FOMC 동결,mon_hold,True,-5.3151563046906265,11,24.0,True,True,False,0
+KOSPI,2021-07-28,FOMC 동결,mon_hold,True,-5.4481840982837815,16,,False,True,False,0
+EWY,2021-07-28,FOMC 동결,mon_hold,True,-7.303922360658732,18,,False,True,False,0
+KOSPI,2021-09-22,FOMC 동결,mon_hold,True,-7.393701992664692,9,,False,False,False,0
+EWY,2021-09-22,FOMC 동결,mon_hold,True,-5.709005397052447,15,20.0,True,False,False,0
+KOSPI,2021-11-03,FOMC 동결,mon_hold,True,-4.593860052436282,19,24.0,True,False,False,0
+EWY,2021-11-03,FOMC 동결,mon_hold,True,-5.867001066040157,19,24.0,True,False,False,0
+EWY,2022-05-04,FOMC 인상 50bp,mon_tight,True,-6.5453965966512655,7,14.0,True,False,False,0
+KOSPI,2022-05-04,FOMC 인상 50bp,mon_tight,True,-4.761406311674666,4,17.0,True,False,False,0
+EWY,2022-06-15,FOMC 인상 75bp,mon_tight,True,-8.202102157226488,20,37.0,False,False,False,0
+KOSPI,2022-06-15,FOMC 인상 75bp,mon_tight,True,-6.348416694033043,15,32.0,False,False,False,0
+KOSPI,2022-08-09,CHIPS법 서명,industrial,True,-5.072979076223804,20,,False,False,True,0
+EWY,2022-08-09,CHIPS법 서명,industrial,True,-9.990174545313756,20,106.0,False,False,True,0
+KOSPI,2022-08-16,인플레이션감축법(IRA) 서명,industrial,True,-6.199282317998389,16,,False,False,True,0
+EWY,2022-08-16,인플레이션감축법(IRA) 서명,industrial,True,-11.468491298545757,20,101.0,False,False,True,0
+KOSPI,2022-08-26,파월 잭슨홀 매파 연설,mon_tight,True,-10.483149531420011,19,51.0,False,False,False,0
+EWY,2022-08-26,파월 잭슨홀 매파 연설,mon_tight,True,-15.179469641638121,20,55.0,False,False,False,0
+KOSPI,2022-09-21,FOMC 인상 75bp,mon_tight,True,-8.167994082069674,7,30.0,True,False,False,0
+EWY,2022-09-21,FOMC 인상 75bp,mon_tight,True,-11.59231243356632,8,33.0,False,False,False,0
+KOSPI,2022-12-14,FOMC 인상 50bp,mon_tight,True,-7.52610475604355,13,22.0,True,True,False,0
+EWY,2022-12-14,FOMC 인상 50bp,mon_tight,True,-4.841203008999839,13,16.0,True,True,False,0
+EWY,2023-02-01,FOMC 인상 25bp,mon_tight,True,-7.830476013140575,19,50.0,False,True,False,0
+EWY,2023-06-14,FOMC 동결,mon_hold,True,-7.095239104018303,11,22.0,True,True,False,0
+EWY,2023-07-26,FOMC 인상 25bp,mon_tight,True,-10.648018587807739,18,,False,True,False,0
+EWY,2023-08-01,피치 미국 신용등급 강등,credit,True,-10.198348343603392,13,104.0,False,True,True,0
+KOSPI,2023-08-01,피치 미국 신용등급 강등,credit,True,-6.095455469581212,12,101.0,False,True,True,0
+EWY,2023-08-09,대중 첨단기술 투자 제한 행정명령,export_ctrl,True,-5.6160504046108395,7,89.0,False,True,False,0
+KOSPI,2023-09-20,FOMC 동결,mon_hold,True,-7.919553215424957,18,57.0,False,False,False,0
+EWY,2023-09-20,FOMC 동결,mon_hold,True,-7.718126298838557,11,34.0,False,False,False,0
+KOSPI,2023-10-09,삼성·SK 중국공장 VEU(포괄허가) 지정,export_ctrl,True,-5.427756174186548,16,20.0,True,False,False,0
+EWY,2023-10-09,삼성·SK 중국공장 VEU(포괄허가) 지정,export_ctrl,True,-6.550367049480609,14,19.0,True,False,False,0
+KOSPI,2023-10-17,반도체 수출통제 강화,export_ctrl,True,-7.405176773390432,10,14.0,True,False,False,0
+EWY,2023-10-17,반도체 수출통제 강화,export_ctrl,True,-7.530884540108184,9,14.0,True,False,False,0
+EWY,2024-03-20,FOMC 동결,mon_hold,True,-6.740190567991133,20,33.0,False,True,False,0
+EWY,2024-05-14,대중 301조 관세 인상(전기차·배터리·반도체),tariff,True,-4.382585995521692,13,21.0,True,True,True,0
+KOSPI,2024-07-21,바이든 대선 후보 사퇴,election,True,-12.660167452038406,11,,False,True,True,0
+EWY,2024-07-21,바이든 대선 후보 사퇴,election,True,-8.87629551562198,12,20.0,True,True,True,0
+KOSPI,2024-07-31,FOMC 동결,mon_hold,True,-11.879347727052835,3,,False,True,False,0
+EWY,2024-07-31,FOMC 동결,mon_hold,True,-7.873530995983202,5,13.0,True,True,False,0
+KOSPI,2024-11-05,2024 대선,election,False,-6.209826715553913,8,65.0,False,False,True,1
+EWY,2024-11-05,2024 대선,election,False,-8.835073441023622,7,,False,False,True,1
+EWY,2024-11-07,FOMC 인하 25bp,mon_ease,False,-6.484749724625615,20,69.0,False,True,False,0
+KOSPI,2024-11-07,FOMC 인하 25bp,mon_ease,False,-5.761836293842659,6,63.0,False,True,False,0
+EWY,2024-12-02,HBM 대중 수출통제,export_ctrl,False,-8.734006130864369,20,34.0,False,False,False,0
+EWY,2024-12-18,FOMC 인하 25bp,mon_ease,True,-5.0027995051901915,9,12.0,True,False,False,0
+KOSPI,2025-03-12,철강·알루미늄 25% 관세 발효,tariff,True,-10.918049017950382,20,38.0,False,True,False,1
+EWY,2025-03-12,철강·알루미늄 25% 관세 발효,tariff,True,-10.550380331317367,20,29.0,True,True,False,0
+KOSPI,2025-03-19,FOMC 동결,mon_hold,True,-12.741292049989095,15,37.0,False,True,False,0
+EWY,2025-03-19,FOMC 동결,mon_hold,True,-14.13024985620912,15,32.0,False,True,False,0
+KOSPI,2025-03-26,수입차 25% 관세 포고문,tariff,True,-13.246896601141799,10,40.0,False,True,False,1
+EWY,2025-03-26,수입차 25% 관세 포고문,tariff,True,-13.888409818980229,9,26.0,True,True,False,1
+KOSPI,2025-04-02,상호관세 발표(한국 25%),tariff,True,-8.46656026893211,5,15.0,True,True,False,1
+EWY,2025-04-02,상호관세 발표(한국 25%),tariff,True,-10.45213884941668,4,13.0,True,True,False,1
+KOSPI,2025-07-30,한미 무역합의(상호관세 15%),tariff,False,-4.149986320647181,2,28.0,True,True,False,0
+EWY,2025-07-30,한미 무역합의(상호관세 15%),tariff,False,-4.1123778630952845,2,9.0,True,True,False,0
+KOSPI,2025-07-30,FOMC 동결,mon_hold,False,-4.149986320647181,2,28.0,True,True,False,0
+KOSPI,2025-10-29,FOMC 인하 25bp,mon_ease,False,-5.760382474924308,18,27.0,True,True,False,0
+EWY,2025-10-29,FOMC 인하 25bp,mon_ease,False,-6.267866575970338,17,28.0,True,True,False,0
+EWY,2025-10-29,경주 한미 정상회담 관세 세부합의,tariff,False,-6.267866575970338,17,28.0,True,True,False,1
+KOSPI,2025-10-29,경주 한미 정상회담 관세 세부합의,tariff,False,-4.09808117168704,19,26.0,True,True,False,1
+KOSPI,2025-10-30,부산 미중 정상회담 관세 인하,tariff,False,-5.760382474924308,18,27.0,True,True,False,1
+EWY,2025-10-30,부산 미중 정상회담 관세 인하,tariff,False,-8.63777672247117,16,40.0,False,True,False,1
+EWY,2025-11-05,대법원 IEEPA 관세 구두변론(위헌 가능성 부각),legal,True,-7.550129169433983,12,25.0,True,True,False,1
+KOSPI,2025-11-14,한미 공동 팩트시트 발표,tariff,True,-7.782273501571746,7,31.0,False,True,False,0
+EWY,2025-11-14,한미 공동 팩트시트 발표,tariff,True,-5.889233276372153,5,15.0,True,True,False,0
+EWY,2025-12-10,FOMC 인하 25bp,mon_ease,True,-5.232243224844879,6,11.0,True,True,False,0
+KOSPI,2026-01-28,FOMC 동결,mon_hold,True,-4.27670199084611,3,4.0,True,True,False,0
+KOSPI,2026-02-20,대법원 IEEPA 관세 무효 판결·10% 임시관세,legal,True,-12.309306701343125,7,17.0,True,True,False,0
+EWY,2026-02-20,대법원 IEEPA 관세 무효 판결·10% 임시관세,legal,True,-8.660606561944807,15,33.0,False,True,False,0
+KOSPI,2026-03-11,301조 과잉생산 조사(한국 포함 16개국),tariff,True,-9.937525556658622,14,20.0,True,True,True,0
+EWY,2026-03-11,301조 과잉생산 조사(한국 포함 16개국),tariff,True,-10.644668013609015,14,20.0,True,True,True,0
+KOSPI,2026-03-18,FOMC 동결,mon_hold,True,-14.726842832162056,9,19.0,True,True,False,0
+EWY,2026-03-18,FOMC 동결,mon_hold,True,-13.38986338712218,9,15.0,True,True,False,0
+EWY,2026-07-23,"301조 관세 발표(한국 포함 60개국, 12.5%)",tariff,True,-17.053947884732167,4,14.0,True,True,True,0
+EWY,2026-07-29,FOMC 동결,mon_hold,True,-4.780449244148388,1,2.0,True,False,False,0

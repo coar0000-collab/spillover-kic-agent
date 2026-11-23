@@ -1,0 +1,20 @@
+{
+ "as_of": "2026-07-23",
+ "title": "Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor",
+ "action": "관세 부과",
+ "rates": [
+  10.0,
+  12.5
+ ],
+ "first_session": "2026-07-24",
+ "first_ret": -5.72,
+ "next_session": "2026-07-27",
+ "next_ret": 0.97,
+ "next_call": "상승 우세",
+ "next_hit": "True",
+ "kospi_5d": -21.18,
+ "range": "±11.5%",
+ "in_range": "False",
+ "sector_abn": {},
+ "direct_call": "큼(대상 섹터 직접 비용 발생)"
+}

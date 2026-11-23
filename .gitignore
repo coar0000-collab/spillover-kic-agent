@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/px_*.pkl
+data/yahoo.pkl
+data/daily.pkl
+data/next_pred.pkl

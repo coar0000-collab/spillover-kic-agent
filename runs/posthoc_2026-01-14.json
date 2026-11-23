@@ -1,0 +1,25 @@
+{
+ "as_of": "2026-01-14",
+ "title": "Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States",
+ "action": "관세 부과",
+ "rates": [
+  10.0,
+  25.0
+ ],
+ "first_session": "2026-01-15",
+ "first_ret": 1.58,
+ "next_session": "2026-01-16",
+ "next_ret": 0.9,
+ "next_call": "상승 우세",
+ "next_hit": "True",
+ "kospi_5d": 3.96,
+ "range": "±6.7%",
+ "in_range": "True",
+ "sector_abn": {
+  "반도체": {
+   "abn_5d": -5.43,
+   "z": -2.1
+  }
+ },
+ "direct_call": "큼(대상 섹터 직접 비용 발생)"
+}

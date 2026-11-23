@@ -1,0 +1,182 @@
+{
+ "as_of": "2026-01-14",
+ "window_days": 2,
+ "doc": {
+  "document_number": "2026-01052",
+  "title": "Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States",
+  "signing_date": "2026-01-14",
+  "publication_date": "2026-01-20",
+  "html_url": "https://www.federalregister.gov/documents/2026/01/20/2026-01052/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative",
+  "subtype": "Proclamation",
+  "score": 4,
+  "relevance": 0.67
+ },
+ "relevance": 0.67,
+ "policy": {
+  "doc": "2026-01052",
+  "source": "https://www.govinfo.gov/content/pkg/FR-2026-01-20/html/2026-01052.htm",
+  "action": "관세 부과",
+  "rates": [
+   10.0,
+   25.0
+  ],
+  "ad_valorem": true,
+  "negotiation": true,
+  "future_tariff_possible": false,
+  "deadline_days": 90,
+  "korea_named": false,
+  "sectors": [
+   "반도체"
+  ],
+  "user_industries": [
+   "기계장비",
+   "IT"
+  ],
+  "target_phrase": "semiconductors, semiconductor manufacturing equipment, and their derivative products",
+  "chars": 19618,
+  "evidence": {
+   "action": "part of this first phase, immediately imposing a 25 percent ad valorem tariff on a very narrow category of semiconductors that are an important element of my Administration's AI and technolo",
+   "future": ""
+  }
+ },
+ "transmission": {
+  "exposure": {
+   "반도체": {
+    "hs": [
+     "8542"
+    ],
+    "year": 2025,
+    "us_usd_bn": 1.0,
+    "world_usd_bn": 142.83,
+    "us_share": 0.007
+   }
+  },
+  "channels": [
+   "무역(대미 수출)",
+   "외국인 자금·심리"
+  ],
+  "path": "232조 포고문 → 반도체 대미 수출 → 기업 실적 기대 → 섹터 주가·외국인 수급"
+ },
+ "quant": {
+  "similar_basis": "한국 직접 대상 관세 부과",
+  "similar_n": 6,
+  "similar_names": [
+   "철강·알루미늄 25% 관세 발효",
+   "수입차 25% 관세 포고문",
+   "상호관세 발표(한국 25%)"
+  ],
+  "similar_absK_median": 3.24,
+  "similar_absK_p75": 4.96,
+  "kospi_sigma60": 1.68,
+  "multiplier": 3.98,
+  "mult_terciles": [
+   1.22,
+   2.6
+  ],
+  "expected_5d": 6.7,
+  "us_reaction_day": "2026-01-15",
+  "spx_day0": 0.26,
+  "next_session_call": "상승 우세",
+  "next_session_hit_hist": 0.75
+ },
+ "risk": {
+  "kospi_5d_range": "±6.7%",
+  "level": "높음",
+  "event_intensity": "평소 변동성의 3.98배(과거 분포 상위 1/3)",
+  "direct_sector_impact": "큼(대상 섹터 직접 비용 발생)",
+  "sector_rank": [
+   [
+    "반도체",
+    0.007
+   ]
+  ],
+  "watch": [
+   "90일 협상 시한(2026-04-14)"
+  ],
+  "unpredictable": "향후 5일 방향은 예측하지 않음(사전 검증 기준선 수준)"
+ },
+ "verify": {
+  "passed": true,
+  "issues": [],
+  "flags": [],
+  "claims_checked": 5
+ },
+ "retries": 0,
+ "log": [
+  {
+   "node": "① Sentinel",
+   "sec": 0.15,
+   "msg": "연방관보 대통령 문서 7건 조회 → 최상위 'Adjusting Imports of Semiconductors, Semiconductor Manufactu' 관련성 0.67"
+  },
+  {
+   "node": "② Policy Analyst",
+   "sec": 0.15,
+   "msg": "원문 19,618자 구조화 → 조치='관세 부과', 관세율=[10.0, 25.0], 한국 명시=False, 대상 섹터=['반도체'], 본문 언급 수요산업=['기계장비', 'IT']"
+  },
+  {
+   "node": "③ Transmission",
+   "sec": 2.16,
+   "msg": "Comtrade 실시간 조회 → 반도체 대미 1.0십억$(0.007)"
+  },
+  {
+   "node": "④ Quant",
+   "sec": 1.16,
+   "msg": "유사 사례 6건(한국 직접 대상 관세 부과) 반응 배수 3.98×현재 일변동성 1.68% → 5일 예상 변동 ±6.7% / 미 반응일 2026-01-15 S&P +0.26%"
+  },
+  {
+   "node": "⑤ Risk",
+   "sec": 0.0,
+   "msg": "이벤트 강도 '높음', KOSPI 5일 예상 변동 ±6.7%(현재 고변동 국면 반영), 섹터 직접 영향 큼(, 노출 순위 [('반도체', 0.007)]"
+  },
+  {
+   "node": "⑥ Verifier",
+   "sec": 0.01,
+   "msg": "주장 5건 출처 확인, 문제 0건, 경고 0건"
+  }
+ ],
+ "claims": [
+  {
+   "text": "감지 문서: Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States (서명 2026-01-14)",
+   "src": "https://www.federalregister.gov/documents/2026/01/20/2026-01052/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative"
+  },
+  {
+   "text": "조치 유형: 관세 부과 / 명시 관세율 [10.0, 25.0] / 협상 기한 90일",
+   "src": "https://www.govinfo.gov/content/pkg/FR-2026-01-20/html/2026-01052.htm"
+  },
+  {
+   "text": "반도체 대상 HS 1개 품목 한국 대미 수출 10억 달러 (2025년, 해당 품목 수출의 1%)",
+   "src": "UN Comtrade reporter=410 partner=842 period=2025 cmd=8542"
+  },
+  {
+   "text": "유사 사례 6건(한국 직접 대상 관세 부과)의 KOSPI 5일 변동폭 중앙값 3.2%: 철강·알루미늄 25% 관세 발효, 수입차 25% 관세 포고문, 상호관세 발표(한국 25%)",
+   "src": "SPILLOVER 사례 라이브러리 v1"
+  },
+  {
+   "text": "미 반응일(2026-01-15) S&P500 +0.26% → 한국 다음 세션 상승 우세 (과거 정책 이벤트 98건 적중 75%)",
+   "src": "Yahoo Finance ^GSPC; 사전 검증"
+  }
+ ],
+ "total_sec": 3.7,
+ "top_candidates": [
+  {
+   "title": "Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States",
+   "relevance": 0.67
+  },
+  {
+   "title": "Adjusting Imports of Processed Critical Minerals and Their Derivative Products Into The United States",
+   "relevance": 0.5
+  },
+  {
+   "title": "Presidential Determination on Designation of the Republic of Peru as a Major Non-NATO Ally",
+   "relevance": 0.0
+  },
+  {
+   "title": "Presidential Determination on Designation of the Kingdom of Saudi Arabia as a Major Non-NATO Ally",
+   "relevance": 0.0
+  },
+  {
+   "title": "Establishing a Second Emergency Board To Investigate Disputes Between the Long Island Rail Road Company and Certain of Its Employees Represented by Certain Labor Organizations",
+   "relevance": 0.0
+  }
+ ]
+}

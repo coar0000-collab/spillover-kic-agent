@@ -1,0 +1,22 @@
+{
+ "as_of": "2026-10-28",
+ "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+ "action": "협상 지시(관세 미부과)",
+ "rates": [],
+ "first_session": "2026-10-29",
+ "first_ret": -1.24,
+ "next_session": "2026-10-30",
+ "next_ret": -3.48,
+ "next_call": "하락 우세",
+ "next_hit": "True",
+ "kospi_5d": -5.47,
+ "range": "±7.3%",
+ "in_range": "True",
+ "sector_abn": {
+  "기계장비": {
+   "abn_5d": 0.57,
+   "z": 0.11
+  }
+ },
+ "direct_call": "작음(즉시 관세 없음 → 섹터 고유 충격 제한적)"
+}
